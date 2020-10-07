@@ -47,7 +47,7 @@ public class comprobarImportacion {
     @Test
     public void comprobarImportacion() {
         
-        Integer i = 23977;
+        Integer i = 25296;
         
         List<String> listaCultivos = new ArrayList<String>();
         List<String> listaPlagas = new ArrayList<String>();
